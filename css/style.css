@@ -1,0 +1,21 @@
+body {
+  background-color: maroon;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  letter-spacing: 2px;
+}
+
+.chatWindow {
+  display: block;
+  width: 500px;
+  height: 250px;
+}
+
+.chatta {
+  background-color: white;
+  height: 250px;
+  width: 500px;
+}
