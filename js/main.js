@@ -261,3 +261,6 @@ function saveChat() {
 }
 
 console.log(saveChat())
+
+
+getUserName(wordBank)
